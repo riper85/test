@@ -1,2 +1,1 @@
-# test
-test
+Second commit with "git commit -a -m"
